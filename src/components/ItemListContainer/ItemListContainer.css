@@ -1,0 +1,8 @@
+.ItemListContainer {
+    margin: 1rem;
+    background-color:rgb(228, 141, 171);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 45rem;
+}
