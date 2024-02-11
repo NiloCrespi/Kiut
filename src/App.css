@@ -1,4 +1,9 @@
-header {
+main {
     background-color:rgb(228, 141, 171);
     margin: 1rem
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
